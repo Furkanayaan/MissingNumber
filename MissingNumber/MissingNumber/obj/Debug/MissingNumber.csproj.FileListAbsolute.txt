@@ -1,0 +1,6 @@
+C:\Users\a\RiderProjects\Repetitions\MissingNumber\MissingNumber\bin\Debug\MissingNumber.dll
+C:\Users\a\RiderProjects\Repetitions\MissingNumber\MissingNumber\bin\Debug\MissingNumber.pdb
+C:\Users\a\RiderProjects\Repetitions\MissingNumber\MissingNumber\obj\Debug\MissingNumber.csproj.AssemblyReference.cache
+C:\Users\a\RiderProjects\Repetitions\MissingNumber\MissingNumber\obj\Debug\MissingNumber.csproj.CoreCompileInputs.cache
+C:\Users\a\RiderProjects\Repetitions\MissingNumber\MissingNumber\obj\Debug\MissingNumber.dll
+C:\Users\a\RiderProjects\Repetitions\MissingNumber\MissingNumber\obj\Debug\MissingNumber.pdb
